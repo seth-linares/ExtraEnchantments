@@ -1,3 +1,5 @@
+// src/client/java/silly/extraenchantments/client/ExtraenchantmentsClient.java
+
 package silly.extraenchantments.client;
 
 import net.fabricmc.api.ClientModInitializer;

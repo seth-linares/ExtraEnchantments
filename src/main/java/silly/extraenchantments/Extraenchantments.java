@@ -1,3 +1,5 @@
+// src/main/java/silly/extraenchantments/Extraenchantments.java
+
 package silly.extraenchantments;
 
 import net.fabricmc.api.ModInitializer;

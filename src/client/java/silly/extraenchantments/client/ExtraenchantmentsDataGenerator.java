@@ -1,3 +1,5 @@
+// src/client/java/silly/extraenchantments/client/ExtraenchantmentsDataGenerator.java
+
 package silly.extraenchantments.client;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
