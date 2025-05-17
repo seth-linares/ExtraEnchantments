@@ -1,16 +1,48 @@
-# Compiled class file
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Quilt Loom
+run/
+.minecraft/
+
+# Eclipse
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ikg
+.classpath
+.project
+
+# Visual Studio Code
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# Eclipse JDT LS
+workspace/
+
+# macOS
+*.DS_Store
+
+# Compiled output
 *.class
+build/
+out/
 
-# Log file
+# Log files
 *.log
+logs/
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.nar
@@ -19,6 +51,17 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Gradle wrapper jar file which should be included
+!gradle/wrapper/gradle-wrapper.jar
+
+# Fabric development
+.fabric/
+remappedSrc/
+run/
+
+# virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# Local development
+local.properties
